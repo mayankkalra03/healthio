@@ -59,4 +59,4 @@ npm run dev
 
 Open http://localhost:3000 to view the application in your web browser.
 
-![Health.io](/assets/images/landing.png "Health.io")
+![Health.io](./public/assets/images/landing.png "Health.io")
